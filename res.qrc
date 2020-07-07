@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bullet.png</file>
+        <file>res/doodle.png</file>
+        <file>res/doodle0.png</file>
+        <file>res/plotform1.png</file>
+        <file>res/plotform2.png</file>
+        <file>res/plotform3.png</file>
+        <file>res/spring.png</file>
+        <file>res/rocket.png</file>
+        <file>res/monster.png</file>
+        <file>res/hole.png</file>
+    </qresource>
+</RCC>
